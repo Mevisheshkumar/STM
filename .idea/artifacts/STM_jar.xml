@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="STM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/STM_jar</output-path>
+    <root id="archive" name="STM.jar">
+      <element id="module-output" name="STM" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
